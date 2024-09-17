@@ -6,28 +6,28 @@ app.use(cors());
 
 const todos = [{
   id: 1,
-  title: "Todo 1",
-  description: "This is todo 1",
+  title: "Grocery Shopping",
+  description: "Buy vegetables, fruits, and milk.",
   completed: false,
 }, {
   id: 2,
-  title: "Todo 2",
-  description: "This is todo 2",
+  title: "Homework",
+  description: "Complete math and science homework.",
   completed: false,
 }, {
   id: 3,
-  title: "Todo 3",
-  description: "This is todo 3",
+  title: "Laundry",
+  description: "Wash and fold clothes.",
   completed: false,
 }, {
   id: 4,
-  title: "Todo 4",
-  description: "This is todo 4",
+  title: "Workout",
+  description: "Go to the gym for an hour.",
   completed: false,
 }, {
   id: 5,
-  title: "Todo 5",
-  description: "This is todo 5",
+  title: "Meeting",
+  description: "Attend the project meeting at 3 PM.",
   completed: false,
 }];
 
